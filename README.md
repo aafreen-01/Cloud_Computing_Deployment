@@ -17,7 +17,7 @@ Project is deployed on two Clouds
 https://cloud-computing-deployment.vercel.app
 
 2. On GitHub Pages
-https://techux.github.io/Cloud_Computing_Deployment/
+[https://aafreen-01.github.io/Cloud_Computing_Deployment/]
 
 
 
